@@ -9,11 +9,10 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
     </p>
     </br>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=seongmink&hide=stars,contribs&theme=vue&show_icons=true" />
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sminggo5)](https://solved.ac/sminggo5/)
     </p>
 </div>
 
