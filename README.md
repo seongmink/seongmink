@@ -11,9 +11,6 @@
         <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white" />
     </p>
     </br>
-    <p>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sminggo5)](https://solved.ac/sminggo5/)
-    </p>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=D1E9D1&height=150&section=footer)
